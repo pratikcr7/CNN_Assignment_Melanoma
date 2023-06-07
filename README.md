@@ -30,7 +30,7 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by UPGRAD under EPGP Program in Mahcine Learning.
+- This project was inspired by UPGRAD under EPGP Program in Machine Learning.
 
 
 ## Contact
